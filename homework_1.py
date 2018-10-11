@@ -1,9 +1,11 @@
-"""
+
 user_value=input('Please enter a value: ')
 if user_value>50:
     print('Big number!')
 else:
     print('Small Number! ')
+
+    
 #Laboratory troubleshooting
 print('Laboratory troubleshooting')
 
@@ -33,7 +35,7 @@ numbers=[2,3,4,5]
 for number in numbers:
     print(f'My number is {number*12}' )
 
-    """
+ 
 
 #Palindromes
 def palindrome(word):
